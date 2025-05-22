@@ -1,0 +1,15 @@
+# Node modules
+/node_modules
+
+# Конфиденциальные файлы
+.env
+.env.local
+.env.*.local
+
+# Логи
+logs
+*.log
+npm-debug.log*
+
+# Системные файлы
+.DS_Store
